@@ -1,0 +1,6 @@
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\bin\Debug\ETradeSite.Entities.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\bin\Debug\ETradeSite.Entities.pdb
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\obj\Debug\ETradeSite.Entities.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\obj\Debug\ETradeSite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\obj\Debug\ETradeSite.Entities.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.Entities\obj\Debug\ETradeSite.Entities.pdb

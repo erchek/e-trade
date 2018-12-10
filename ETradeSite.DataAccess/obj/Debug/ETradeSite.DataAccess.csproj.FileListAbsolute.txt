@@ -1,0 +1,16 @@
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.DataAccess.dll.config
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.DataAccess.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.DataAccess.pdb
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.Core.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.Entities.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.Core.pdb
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\ETradeSite.Entities.pdb
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\obj\Debug\ETradeSite.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\obj\Debug\ETradeSite.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\obj\Debug\ETradeSite.DataAccess.csproj.CopyComplete
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\obj\Debug\ETradeSite.DataAccess.dll
+C:\Users\Sinan\source\repos\ETradeSite.Solution\ETradeSite.DataAccess\obj\Debug\ETradeSite.DataAccess.pdb
